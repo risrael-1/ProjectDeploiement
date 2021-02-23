@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "949485047212",
+    "project_id": "deploiementproject",
+    "storage_bucket": "deploiementproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:949485047212:android:dbe2f5c41ff670eb47fe09",
+        "android_client_info": {
+          "package_name": "dev.esgi.quiveutgagnerdesmillions"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "949485047212-g1tuu4lii4tlbl5jhnufmqqrcgji5kgt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFFRb3MuFsaWmlhKUyEeEBNVzd-nymZ0c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "949485047212-g1tuu4lii4tlbl5jhnufmqqrcgji5kgt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
